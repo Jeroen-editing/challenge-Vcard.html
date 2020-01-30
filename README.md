@@ -1,5 +1,5 @@
 # challenge-Vcard.html
 
 
-vist webpage at:
+see Vcard at:
 https://jeroen-editing.github.io/challenge-Vcard.html/index_Vcard.html
